@@ -13,7 +13,7 @@ from config import DEEPSEEK_API_URL
 # 硅基流动
 # API
 DEEPSEEK_API_URL = "https://api.siliconflow.cn/v1/chat/completions"
-# Token
+# API 密钥
 DEEPSEEK_API_KEY = 'sk-'
 
 # 模型
