@@ -65,9 +65,8 @@ N = 1
 ### 微信的参数配置 ###
 
 # 监听消息列表
-PERSON_LISTEN_LIST = ['Y1010']
+PERSON_LISTEN_LIST = ['']
 GROUP_LISTEN_LIST = ['']
-
 
 
 ### 日志参数配置 ###
